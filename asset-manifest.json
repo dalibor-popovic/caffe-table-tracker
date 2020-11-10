@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/caffe-table-tracker/static/css/main.01a3e749.chunk.css",
+    "main.js": "/caffe-table-tracker/static/js/main.f98874ad.chunk.js",
+    "main.js.map": "/caffe-table-tracker/static/js/main.f98874ad.chunk.js.map",
+    "runtime-main.js": "/caffe-table-tracker/static/js/runtime-main.7fd402e3.js",
+    "runtime-main.js.map": "/caffe-table-tracker/static/js/runtime-main.7fd402e3.js.map",
+    "static/js/2.28575e47.chunk.js": "/caffe-table-tracker/static/js/2.28575e47.chunk.js",
+    "static/js/2.28575e47.chunk.js.map": "/caffe-table-tracker/static/js/2.28575e47.chunk.js.map",
+    "index.html": "/caffe-table-tracker/index.html",
+    "static/css/main.01a3e749.chunk.css.map": "/caffe-table-tracker/static/css/main.01a3e749.chunk.css.map",
+    "static/js/2.28575e47.chunk.js.LICENSE.txt": "/caffe-table-tracker/static/js/2.28575e47.chunk.js.LICENSE.txt",
+    "static/media/Menu.css": "/caffe-table-tracker/static/media/patternpad.f4c6d9a4.svg",
+    "static/media/restaurant.de93d443.svg": "/caffe-table-tracker/static/media/restaurant.de93d443.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fd402e3.js",
+    "static/js/2.28575e47.chunk.js",
+    "static/css/main.01a3e749.chunk.css",
+    "static/js/main.f98874ad.chunk.js"
+  ]
+}
